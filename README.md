@@ -1,1 +1,1 @@
-![v0.png](https://your-copied-image-address)
+![v0.png](https://github.com/RodionSV420/cleanv.0)
