@@ -1,0 +1,33 @@
+.grid {
+   box-sizing: content-box;
+}
+
+.newcard {
+   margin: 00px;
+   padding: 0 15px;
+
+}
+
+table {
+   border: 1px solid rgb(255, 255, 255);
+   border-collapse: collapse;
+   text-align: left;
+   width: 100%;
+   line-height: 2rem;
+
+}
+
+tr {
+   border: 1px solid rgb(247, 172, 172);
+}
+
+tr:empty {
+   border-collapse: separate;
+   visibility: hidden;
+}
+
+th {
+   background-color: rgb(174, 177, 179);
+   width: 100%;
+
+}
